@@ -1,0 +1,9 @@
+# Blockera PDF-filer
+*.pdf
+
+# Blockera PowerPoint-filer
+*.ppt
+*.pptx
+
+# blocker .venv mappen
+.venv/

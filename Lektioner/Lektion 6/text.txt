@@ -1,0 +1,3 @@
+Python är kul.
+Vi lär oss filhantering.
+Programmering är kraftfullt.

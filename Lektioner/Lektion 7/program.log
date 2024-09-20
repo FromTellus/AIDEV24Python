@@ -1,0 +1,4 @@
+2024-09-17 14:00:05,541 - INFO - Programmet har startat.
+2024-09-17 14:00:05,541 - WARNING - Värdet på x är större än förväntat!
+2024-09-17 14:00:05,541 - ERROR - Ett fel inträffade: Division med noll.
+2024-09-17 14:00:05,541 - INFO - Programmet avslutades.
